@@ -25,6 +25,11 @@ After removing the outliers, we can see that 2014 actually had the highest numbe
 
 In the above graph, the gray area shows the year that had the most average security breaches. During that time, closing prices kept increasing and was much higher than the previous year. This shows us that the financial markets do not punish companies for security breaches.
 
+## 2nd Iteration:
+
+![image](https://user-images.githubusercontent.com/32119820/32360362-51abb938-c012-11e7-97f4-36565c398a95.png)
+
+This graph is similar to the 1st iteration except this one has updated data. Since we are excluding outlier security breaches for Anthem, Equifax and Heartland, it will be a good idea to also exclude their corresponding stock prices. After the filter was added to exclude those 3 companies, there was a slightly steeper decrease in stock prices. In Q2 of 2014, we see this decrease in closing prices.
 
 
 --------------
