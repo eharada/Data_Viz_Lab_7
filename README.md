@@ -56,4 +56,6 @@ This confirms our previous beliefs that the financial markets do not punish the 
 <br/>
 This redesign improved the original data visualization as it proves more clarity. The original visual was confusing to the audience because there were two graphs that needed to be explained. However now we are able to view one graph that tells a better story of market security.
 
+## Tableau Public Link:
+https://public.tableau.com/profile/elena.harada#!/vizhome/Lab_3_0/Dashboard4?publish=yes
 
