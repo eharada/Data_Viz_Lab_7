@@ -34,11 +34,11 @@ This graph is similar to the 1st iteration except this one has updated data. Sin
 
 ## 3rd Iteration:
 
-In the final version, I want to focus on 2014 as that was the year that had the most security breaches. This way we could see more granular details to see if stock prices plummeted around those security breaches. In the graph below, we could see that Home Depot, Community Health Systems and Staples had the security breaches in 2014. 
+In the third iteration, I want to focus on 2014 as that was the year that had the most security breaches. This way we could see more granular details to see if stock prices plummeted around those security breaches. In the graph below, we could see that Home Depot, Community Health Systems and Staples had security breaches in 2014. 
 
 ![image](https://user-images.githubusercontent.com/32119820/32402457-b124b73c-c0e1-11e7-8dde-f0470725c3b2.png)
 
-In the below links we could see that the security breaches occurred in April, June and September.
+In the following links we could see that the security breaches occurred in April, June and September.
 
 http://money.cnn.com/2014/09/18/technology/security/home-depot-hack/index.html
 
@@ -57,12 +57,12 @@ In the above visual, I included stock prices for all companies (except the outli
 
 ![image](https://user-images.githubusercontent.com/32119820/32407913-ff3b271a-c14c-11e7-90c0-93fbdc402465.png)
 
-In the final version, I only included the stock prices for the affected companies (Community Health Systems,Home Depot and Staples). In addition I am looking at the closing stock prices per week rather than per month. This allows us to see the peaks and troughs more clearly. THe gray bars indicate the security breaches for the 3 companies. During this time we could see that the stock prices do significantly decrease but it starts to increase after a few weeks. 
+In the final version, I only included the stock prices for the affected companies (Community Health Systems,Home Depot and Staples). In addition I am looking at the closing stock prices per week rather than per month. This allows us to see the peaks and troughs more clearly. The gray bars indicate the security breaches for the 3 companies. During this time we could see that the stock prices do significantly decrease but it starts to increase after a few weeks. 
 
 This confirms our previous beliefs that the financial markets do not punish the financial markets. Although stock prices may dip temporarily, it will always bounce back fairly quickly.
 
 <br/>
-This redesign improved the original data visualization as it proves more clarity. The original visual was confusing to the audience because there were two graphs that needed to be explained. However now we are able to view one graph that tells a better story of market security.
+This redesign improved the original data visualization as it proves more clarity. The original visual was confusing to the audience because there were two graphs that needed to be explained. However now we are able to view one graph that tells a better story of market security despite security breaches.
 
 ## Tableau Public Link:
 https://public.tableau.com/profile/elena.harada#!/vizhome/Lab_7_0/Sheet13?publish=yes
