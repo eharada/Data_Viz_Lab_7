@@ -15,7 +15,7 @@ Below are the outliers that will be excluded.
 
 ![image](https://user-images.githubusercontent.com/32119820/32310030-c32154d6-bf4c-11e7-872a-7d05cfbf67ca.png)
 
-After removing the outliers, we can see that 2014 actually had the highest number of security breaches rather than 2016 (what we previously believed). Because 2014 is vastly greater, we will focus on 2014 and the surrounding years to see if we can still support our claim.
+After removing the outliers, we can see that 2014 actually had the highest number of security breaches rather than 2016 (what we previously believed). Because 2014 is vastly greater, we will focus on that and the surrounding years to see if we can still support our claim.
 
 ![image](https://user-images.githubusercontent.com/32119820/32310388-1d528e5a-bf4f-11e7-9d08-4aeb21102430.png)
 
@@ -23,32 +23,37 @@ After removing the outliers, we can see that 2014 actually had the highest numbe
 
 ![image](https://user-images.githubusercontent.com/32119820/32310653-280c0b08-bf51-11e7-93b3-d290caff6f27.png)
 
-In the above graph, the gray area shows the year that had the most average security breaches. During that time, closing prices kept increasing and was much higher than the previous year. This shows us that the financial markets do not punish companies for security breaches.
+In the above graph, the gray area shows the year that had the highest average for security breaches. During that time, closing prices kept increasing and was much higher than the previous year. This shows us that the financial markets do not punish companies for security breaches.
 
 ## 2nd Iteration:
 
 ![image](https://user-images.githubusercontent.com/32119820/32360362-51abb938-c012-11e7-97f4-36565c398a95.png)
 
-This graph is similar to the 1st iteration except this one has updated data. Since we are excluding outlier security breaches for Anthem, Equifax and Heartland, it will be a good idea to also exclude their corresponding stock prices. After the filter was added to exclude those 3 companies, there was a slightly steeper decrease in stock prices. In Q2 of 2014, we see this decrease in closing prices.
+This graph is similar to the 1st iteration except this one has updated data. Since we are excluding security breaches for Anthem, Equifax and Heartland, it will be a good idea to also exclude their corresponding stock prices. After the filter was added to exclude those 3 companies, there was a slightly steeper decrease in stock prices. In Q2 of 2014, we see this decrease in closing prices.
 
+-----------
 
---------------
+## Final Version:
 
+In the final version, I want to focus on 2014 as that was the year that had the most security breaches. This way we could see more granular details to see if stock prices plummeted around those security breaches. In the graph below, we could see that Home Depot, Community Health Systems and Staples had the security breaches in 2014. 
 
-Context
-This is a redesign of lab session 3. 
+![image](https://user-images.githubusercontent.com/32119820/32402457-b124b73c-c0e1-11e7-8dde-f0470725c3b2.png)
 
-Objectives
-Redesign YOUR result of lab session 3. 
+In the below links we could see that the security breaches occurred in April, June and September.
 
-Steps
-Critique your visualization
-Develop a roadmap for improvement
-Improve your visualization
-Explain how you have improved your visualization
+http://money.cnn.com/2014/09/18/technology/security/home-depot-hack/index.html
 
-Caution
-Please ensure the reproducibility of your results.
-You may add new data as you see fit.
-Be creative!
+https://securityintelligence.com/4-5-million-patient-records-stolen-in-chs-data-breach-whats-next/
+
+http://fortune.com/2014/12/19/staples-cards-affected-breach/
+
+In the graph below, the months with the security breaches are in light gray. During those months of security breaches, the stock prices mainly increased or remained relatively stable. 
+
+![image](https://user-images.githubusercontent.com/32119820/32402446-88c8a456-c0e1-11e7-9967-e16f4ec9f334.png)
+
+This confirms our previous beliefs that the financial markets do not punish the financial markets. Although stock prices may dip temporarily, it will always bounce back to the original price or higher.
+
+<br/>
+This redesign improved the original data visualization as it proves more clarity. The original visual was confusing to the audience because there were two graphs that needed to be explained. However now we are able to view one graph that tells a better story of market security.
+
 
